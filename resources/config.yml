@@ -1,0 +1,14 @@
+#███████╗██╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗ ██████╗ ██████╗ 
+#██╔════╝██║   ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║██╔═══██╗██╔══██╗
+#█████╗  ██║   ██║   ██║   ██║   ██║███████╗███████║██║   ██║██████╔╝
+#██╔══╝  ██║   ██║   ██║   ██║   ██║╚════██║██╔══██║██║   ██║██╔═══╝ 
+#██║     ╚██████╔╝   ██║   ╚██████╔╝███████║██║  ██║╚██████╔╝██║     
+#╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     
+#discord.gg/EPKcucew5z
+#discord.gg/https://discord.gg/GQAwq5uAwv
+
+worlds:
+  - Factions
+  - Minage # Ajoutez autant de monde que vous le souhaitez.
+
+# WORLDS = les mondes ou les feuilles des arbres ne pourront pas se décomposer.
